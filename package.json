@@ -25,13 +25,13 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/salmanytofficial/XLICON-V2-MD",
+    "homepage": "https://github.com/ahsanch911",
     "author": {
-        "name": "GURU"
+        "name": "AhSaN"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/salmanytofficial/XLICON-V2-MD.git"
+        "url": "git+https://github.com/ahsanch911/XLICON-V2-MD.git"
     },
     "bugs": {
         "url": "https://github.com/salmanytofficial/XLICON-V2-MD/issues"
